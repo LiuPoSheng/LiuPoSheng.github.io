@@ -1,0 +1,19 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LiuPoSheng.github.io" resolutions="1x,2x" timestamp="1611250258226">
+  <folder name="images">
+    <file name="u94-4.png" crc="422823599" ref="index"/>
+    <file name="u94-4_2x.png" crc="4216629067" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="206148403" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4015442008" seo="true" mt="1611250109313" redirect="true"/>
+</manifest>
