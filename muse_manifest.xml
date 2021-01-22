@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LiuPoSheng.github.io" resolutions="1x,2x" timestamp="1611299943279">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LiuPoSheng.github.io" resolutions="1x,2x" timestamp="1611300229321">
   <folder name="images">
     <file name="2020_6_2_b.jpg" crc="410325071" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -35,12 +35,14 @@
       <caption webpage="企鵝日記" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="p"/>
-    <file name="1553312088699-e0cd81c7-1b17-4ffb-93eb-8ffba7542038_.jpg" crc="3930269652" seo="true" ref="p">
+    <file name="1553312088699-e0cd81c7-1b17-4ffb-93eb-8ffba7542038_.jpg" crc="516255374" seo="true" ref="p:未命名-3">
       <caption webpage="p" alt=""/>
+      <caption webpage="未命名-3" alt=""/>
       <caption webpage="企鵝日記" alt=""/>
     </file>
-    <file name="1553312088699-e0cd81c7-1b17-4ffb-93eb-8ffba7542038__2x.jpg" crc="3787500141" seo="true" ref="p">
+    <file name="1553312088699-e0cd81c7-1b17-4ffb-93eb-8ffba7542038__2x.jpg" crc="392335666" seo="true" ref="p:未命名-3">
       <caption webpage="p" alt=""/>
+      <caption webpage="未命名-3" alt=""/>
       <caption webpage="企鵝日記" alt=""/>
     </file>
     <file name="1553313218109-ab78bc88-9b36-4cad-9344-43083aa12509_.jpg" crc="323282108" seo="true" ref="p">
@@ -327,19 +329,21 @@
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="177941106" ref="index"/>
     <file name="p.css" crc="102985300" ref="p"/>
+    <file name="___-3.css" crc="4136556164" ref="未命名-3"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:p"/>
-    <file name="museutils.js" crc="4216313831" ref="index:p"/>
-    <file name="whatinput.js" crc="86476730" ref="index:p"/>
-    <file name="museconfig.js" crc="474374037" ref="index:p"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:p"/>
-    <file name="require.js" crc="3951022091" ref="index:p"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:p:未命名-3"/>
+    <file name="museutils.js" crc="4216313831" ref="index:p:未命名-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:p:未命名-3"/>
+    <file name="museconfig.js" crc="474374037" ref="index:p:未命名-3"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:p:未命名-3"/>
+    <file name="require.js" crc="3951022091" ref="index:p:未命名-3"/>
     <file name="webpro.js" crc="4143865194" ref="p"/>
     <file name="musewpslideshow.js" crc="3781122836" ref="p"/>
     <file name="jquery.museoverlay.js" crc="4030747646" ref="p"/>
     <file name="touchswipe.js" crc="4200445185" ref="p"/>
   </folder>
-  <file name="index.html" crc="3804721860" seo="true" mt="1611299882574" redirect="true"/>
+  <file name="index.html" crc="3833011904" seo="true" mt="1611300190616" redirect="true"/>
   <file name="p.html" crc="4076461601" seo="true" mt="1611299882575" redirect="true"/>
+  <file name="未命名-3.html" crc="3782306649" seo="true" mt="1611300214532" redirect="true"/>
 </manifest>
