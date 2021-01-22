@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LiuPoSheng.github.io" resolutions="1x,2x" timestamp="1611299244179">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LiuPoSheng.github.io" resolutions="1x,2x" timestamp="1611299612482">
   <folder name="images">
     <file name="2020_6_2_b.jpg" crc="410325071" seo="true" ref="index">
       <caption webpage="index" alt=""/>
